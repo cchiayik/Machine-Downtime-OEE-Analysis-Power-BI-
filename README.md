@@ -9,7 +9,7 @@ The dashboard provides insights into **Overall Equipment Effectiveness (OEE)**, 
 
 
 ### Dashboard for Failure Type Distribution
-<img width="1220" height="706" alt="Dashboard for Failure Type Distribution" src="https://github.com/user-attachments/assets/edb6378b-ea1b-4673-aa16-da3154b0ad0" />
+<img width="1220" height="706" alt="Dashboard for Failure Type Distribution" src="https://github.com/user-attachments/assets/44d15284-339d-4cfa-ba19-835f6e897358"/>
 <p align="center"><em>Figure 1: Dashboard showing the distribution of different failure types.</em></p>
 
 ### Conditional Formatting based on Tool Wear and Key Influencer
