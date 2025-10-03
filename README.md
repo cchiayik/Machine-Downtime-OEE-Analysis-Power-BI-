@@ -19,7 +19,7 @@ The dashboard provides insights into **Overall Equipment Effectiveness (OEE)**, 
 ## 📁 Project Structure
 
 - `Impurity_Analysis_Case_Study.ipynb` — Main Python notebook using `pandas`, `statsmodels`, and `matplotlib`
-- `Machine DownTime OEE.pdf` — **PDF version** of the dashboard(viewable [here](./Impurity-Analysis-Case-Study/))
+- `Machine DownTime OEE.pdf` — **PDF version** of the dashboard(viewable [here](./Machine DownTime OEE.pdf/))
 - `ai4i2020.csv` — Cleaned dataset containing milling machine status and type of failure (viewable [here](./ai4i2020.csv))
 - `Impurity_Analysis_Case_Study.pbix` — Dashboard visualizing trends and interactions across variables (download [here](https://github.com/cchiayik/Impurity-Analysis-Case-Study/raw/refs/heads/impurity-analysis-case-study/power_bi/Impurity%20Analysis%20Case%20Study.pbix))
 
