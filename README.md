@@ -40,30 +40,30 @@ The dashboard provides insights into **Overall Equipment Effectiveness (OEE)**, 
 
 ## 📊 Dashboard Highlights  
 
-### 🔧 OEE & Performance Metrics  
+###  OEE & Performance Metrics  
 - **Overall Failure Rate:** 3.39%  
 - **MTBF (Mean Time Between Failures):** 29.5 mins  
 - **Availability Rate:** 97%  
 
-### ⚠️ Failure Type Distribution  
+###  Failure Type Distribution  
 - **HDF (Heat Dissipation Failure):** 30.83%  
 - **OSF (Overstrain Failure):** 26.27%  
 - **PWF (Power Failure):** 25.47%  
 - **TWF (Tool Wear Failure):** 12.33%  
 - **RNF (Random Failure):** 5.09%  
 
-### 📈 Key Influencers of Machine Failure  
+###  Key Influencers of Machine Failure  
 - **Tool Wear × Torque > 11,919 min·Nm**  
 - **Torque > 64.9 Nm** or **< 13 Nm**  
 - **Rotational Speed > 2,465 rpm**  
 - **Temperature Difference ≤ 8.6 K**  
 
-### 🛠 Failure Mechanism (Cascade Effect)  
+###  Failure Mechanism (Cascade Effect)  
 Excessive tool wear → Reduced cutting efficiency → Increased torque demand → Higher temperature → Heat dissipation failures → Cascading failures  
 
 ---
 
-## ✅ Recommendations  
+##  Recommendations  
 
 ### **Immediate (Next 24h)**  
 - Shutdown machines with **Tool Wear > 200 min**  
