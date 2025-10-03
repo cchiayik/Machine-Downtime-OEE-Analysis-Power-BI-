@@ -16,7 +16,14 @@ The dashboard provides insights into **Overall Equipment Effectiveness (OEE)**, 
 <img width="1244" height="716" alt="Conditional Formatting based on Tool Wear and Key Influencer" src="https://github.com/user-attachments/assets/18bccde9-b5d7-4d1c-b05f-0ac4f5761c2c" />
 <p align="center"><em>Figure 2: Conditional formatting applied to highlight tool wear and key influencers.</em></p>
 
+## 📁 Project Structure
 
+- `Impurity_Analysis_Case_Study.ipynb` — Main Python notebook using `pandas`, `statsmodels`, and `matplotlib`
+- `Impurity_Analysis_Case_Study.html` — **Interactive HTML preview** of the notebook (viewable [here](./Impurity-Analysis-Case-Study/))
+- `ai4i2020.csv` — Cleaned dataset containing milling machine status and type of failure (viewable [here](./ai4i2020.csv))
+- `Impurity_Analysis_Case_Study.pbix` — Dashboard visualizing trends and interactions across variables (download [here](https://github.com/cchiayik/Impurity-Analysis-Case-Study/raw/refs/heads/impurity-analysis-case-study/power_bi/Impurity%20Analysis%20Case%20Study.pbix))
+
+---
 
 
 ## 📂 Dataset  
