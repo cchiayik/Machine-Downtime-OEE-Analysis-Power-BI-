@@ -1,15 +1,17 @@
-# 📊 Machine Downtime & OEE Analysis (Power BI)
+#  Machine Downtime & OEE Analysis (Power BI)
 
-## 📌 Project Overview  
+##  Project Overview  
 This project leverages **Power BI** to analyze **machine downtime, equipment effectiveness, and failure mechanisms** using the **AI4I 2020 Predictive Maintenance Dataset**.  
 
 The dashboard provides insights into **Overall Equipment Effectiveness (OEE)**, machine failure patterns, risk levels, and key drivers influencing machine breakdowns. It also includes actionable recommendations for **predictive and preventive maintenance**.
 
-## 🖼️ Dashboard Preview  
+##  Dashboard Preview  
 
 
-![Dashboard Screenshot 1](images/dashboard1.png)  
-![Dashboard Screenshot 2](images/dashboard2.png)  
+![Dashboard for Failure Type Distribution](<img width="1220" height="706" alt="image" src="https://github.com/user-attachments/assets/edb6378b-ea1b-4673-aa16-da3154b0ad0a" />
+)  
+![Conditional Fromatting based on Tool Wear and Key Influencer](<img width="1244" height="716" alt="image" src="https://github.com/user-attachments/assets/18bccde9-b5d7-4d1c-b05f-0ac4f5761c2c" />
+)  
 
 
 ## 📂 Dataset  
