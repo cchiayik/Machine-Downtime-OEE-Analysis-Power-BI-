@@ -6,12 +6,11 @@ This project leverages **Power BI** to analyze **machine downtime, equipment eff
 The dashboard provides insights into **Overall Equipment Effectiveness (OEE)**, machine failure patterns, risk levels, and key drivers influencing machine breakdowns. It also includes actionable recommendations for **predictive and preventive maintenance**.
 
 ## 🖼️ Dashboard Preview  
-*(Add screenshots of your Power BI dashboard here for visualization.)*  
 
-```markdown
+
 ![Dashboard Screenshot 1](images/dashboard1.png)  
 ![Dashboard Screenshot 2](images/dashboard2.png)  
----
+
 
 ## 📂 Dataset  
 - **Source:** [`ai4i2020.csv`](./ai4i2020.csv)  
